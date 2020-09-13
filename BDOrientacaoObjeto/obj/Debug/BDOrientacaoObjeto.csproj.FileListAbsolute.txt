@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\BDOrientacaoObjeto\BDOrientacaoObjeto\bin\Debug\BDOrientacaoObjeto.exe.config
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\BDOrientacaoObjeto\BDOrientacaoObjeto\bin\Debug\BDOrientacaoObjeto.exe
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\BDOrientacaoObjeto\BDOrientacaoObjeto\bin\Debug\BDOrientacaoObjeto.pdb
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\BDOrientacaoObjeto\BDOrientacaoObjeto\obj\Debug\BDOrientacaoObjeto.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\BDOrientacaoObjeto\BDOrientacaoObjeto\obj\Debug\BDOrientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\BDOrientacaoObjeto\BDOrientacaoObjeto\obj\Debug\BDOrientacaoObjeto.exe
+C:\Users\felip\Desktop\Dev\C#\Projetos\ws-vs2019\BDOrientacaoObjeto\BDOrientacaoObjeto\obj\Debug\BDOrientacaoObjeto.pdb
